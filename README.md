@@ -41,13 +41,13 @@ The dataset respects realistic constraints such as:
 ## 🔍 Exploratory Data Analysis
 
 ### Target Distribution
-![Target Distribution](images/eda_target_distribution.png)
+![Target Distribution](images/target_distribution.png)
 
 ### Feature Boxplots
 ![EDA Boxplots](images/eda_boxplots.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/eda_correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 EDA shows that food demand is influenced by multiple interacting factors
 and cannot be captured by a simple linear relationship.
